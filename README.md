@@ -24,7 +24,7 @@ Nice to meet you!
   </a>
 </p>
 <div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-bbiant&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-kev&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
  </div>
 
 
