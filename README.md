@@ -11,6 +11,16 @@ Nice to meet you!
     <img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="Donate" />
   </a>
 </div> -->
+<p align='left'>
+  
+  <a href="https://www.linkedin.com/in/alexandresanlim/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;<br>
+  <a href="https://https://www.instagram.com/kevin_b.biantuadi/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 
 <p align="center">
   <a href="https://google.com" style='text-decoration:none; color:black;font-size:60px;'>
