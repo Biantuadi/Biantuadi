@@ -3,7 +3,10 @@ Nice to meet you!
  👋</h1>
 
 
-<img src="https://camo.githubusercontent.com/03544a743fd05bbcbba27e38b9bb71a96b1c5da22ebf48202572be4949b83d1d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7a356943766f316f4362717437756b4d51732f67697068792e676966" />       
+<div>
+<img src="https://raw.githubusercontent.com/Angelk90/angelk90/986ce55af279485343895de94f1872c7aad0ba8f/avatar.svg" width="312px" heigth="188px" />
+<img src="https://camo.githubusercontent.com/03544a743fd05bbcbba27e38b9bb71a96b1c5da22ebf48202572be4949b83d1d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7a356943766f316f4362717437756b4d51732f67697068792e676966" heigth="100px"/> 
+</div>      
 
 
 <!-- <p>
