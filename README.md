@@ -6,11 +6,11 @@ Nice to meet you!
   <h1 align='center'>
     <b>I'm <a href="#">Kev</a> 😎</b>
 
-<div align="right">
+<!-- <div align="right">
   <a href="#">
     <img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="Donate" />
   </a>
-</div>
+</div> -->
 
 <p align="center">
   <a href="https://google.com" style='text-decoration:none; color:black;font-size:60px;'>
