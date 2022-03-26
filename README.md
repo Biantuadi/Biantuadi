@@ -2,7 +2,7 @@
 
 <p>
   <h1 align='center' style='margin:3px 0 0 0'>
-    <br>I'm <a href="#">Kevin</a> 👨🏽‍💻<img align="left" src="https://raw.githubusercontent.com/Angelk90/angelk90/master/macbookPro.svg" width="300px" heigth="176px" /></br></b>
+    <br>I'm <a href="#">Kevin</a> 👨🏽‍💻
 </br>
 </br>
 
